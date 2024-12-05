@@ -1,8 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+ 1.Clone the repository and navigate to the project folder:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/HardikPrajapati555/To-Do-List-with-React.js
+cd To-Do-List-with-React.js
+
+
+ 2.Install Dependencies   
+
+ npm install
+
+
+  3.Start the Development Server
+
+  npm run dev
+
+  4.Open the Application
+
+  http://localhost:PORT 
+
+
+
+Live Demo
+
+Check out the live version of the application here:
+
+https://to-do-list-with-react-js-phi.vercel.app/
