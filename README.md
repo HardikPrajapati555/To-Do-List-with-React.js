@@ -3,8 +3,11 @@
 
  1.Clone the repository and navigate to the project folder:
 
-git clone https://github.com/HardikPrajapati555/To-Do-List-with-React.js
-cd To-Do-List-with-React.js
+git clone    https://github.com/HardikPrajapati555/To-Do-List-with-React.js
+
+
+
+ cd To-Do-List-with-React.js
 
 
  2.Install Dependencies   
